@@ -1,0 +1,1 @@
+﻿This example demonstrates how you can call  GoogleAnalytics.PushEvent() from anywhere in your code. Here it is beign called from the Index action on the Home controller. In the _Layout.cshtml you'll find the call to  GoogleAnalytics.OutputEvents() within your standard Google Analytics javascript code.
